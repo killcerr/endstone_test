@@ -1,0 +1,6 @@
+.xmake/
+build/
+.vscode/
+.cache/
+compile_commands.json
+.DS_Store
